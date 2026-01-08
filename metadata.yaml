@@ -1,7 +1,7 @@
 homepage: "https://consentio.it"
 documentation: "https://consentio.it/docs/gtm"
 versions:
-  - sha: SOSTITUISCI_CON_SHA_COMMIT
+  - sha: 3179e5b73151a60e44009df3eb942a7ed3de99fe
     changeNotes: |
       Initial release v1.0.0
       - Full Google Consent Mode v2 support
