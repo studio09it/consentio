@@ -1,10 +1,10 @@
 homepage: "https://consentio.it"
 documentation: "https://consentio.it/docs/gtm"
 versions:
-  - sha: INSERISCI_SHA_COMMIT_DOPO_PUSH
+  - sha: SOSTITUISCI_CON_SHA_COMMIT
     changeNotes: |
-      Initial release of Consentio Consent Mode template.
-      - Google Consent Mode v2 support
+      Initial release v1.0.0
+      - Full Google Consent Mode v2 support
       - Multi-language support (IT, EN, DE, FR, ES)
       - URL Passthrough and Ads Data Redaction options
-      - GDPR compliant default settings
+      - GDPR compliant default settings (all denied)
